@@ -20,6 +20,7 @@ services:
             - LETSENCRYPT_DOMAIN
             - LETSENCRYPT_EMAIL
             - PUBLIC_URL
+            - SPOT_URL_BASE
             - TZ
             - AMPLITUDE_ID
             - ANALYTICS_SCRIPT_URLS
